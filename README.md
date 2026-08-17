@@ -2,15 +2,15 @@
 <h3 align="center">AI Developer · Machine Learning Engineer · RAG Systems Builder · Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;RAG+Systems+Builder;Backend+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;RAG+Systems+Builder;Backend+Developer&center=true&width=500&height=50&color=38BDF8&size=22&font=Fira+Code">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Patented-IN202641004962%20A1-6f42c1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Developer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Smart_India_Hackathon-2024%20%26%202025%20Finalist-00A86B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CodeChef-1700%2B%20Rating-BE1E2D?style=for-the-badge&logo=codechef&logoColor=white">
-  <img src="https://img.shields.io/badge/LeetCode-670%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  <a href="https://drive.google.com/file/d/1-oCO61LDZnqCTJXcOmF623QZO5dA4dUV/view"><img src="https://img.shields.io/badge/Patented-IN202641004962%20A1-8B5CF6?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Developer_Associate-38BDF8?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Smart_India_Hackathon-2024%20%26%202025%20Finalist-10B981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CodeChef-1700%2B%20Rating-F43F5E?style=for-the-badge&logo=codechef&logoColor=white">
+  <img src="https://img.shields.io/badge/LeetCode-670%2B%20Solved-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white">
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements
 
-- 📜 **Published Indian Patent** — **IN202641004962 A1** for an AI-based freshness detection system using computer vision & ML
+- 📜 **Published Indian Patent** — **[IN202641004962 A1](https://drive.google.com/file/d/1-oCO61LDZnqCTJXcOmF623QZO5dA4dUV/view)** for an AI-based freshness detection system using computer vision & ML
 - 🎖️ **Smart India Hackathon** — College-level finalist, **2024 & 2025** (AI-based innovation projects)
 - ✅ **Microsoft Certified: Azure Developer Associate**
 - 📡 **Cisco CCNA 1, 2, 3** — Certified
@@ -120,7 +120,7 @@
 
 ### 🥬 AI-Based Freshness Indicator — *Patented*
 
-> 📜 **Indian Patent IN202641004962 A1** | Real-time freshness detection for fruits & vegetables
+> 📜 **Indian Patent [IN202641004962 A1](https://drive.google.com/file/d/1-oCO61LDZnqCTJXcOmF623QZO5dA4dUV/view)** | Real-time freshness detection for fruits & vegetables
 
 - Built a **CNN-based computer vision system (MobileNetV2)** achieving **92% accuracy** on **3,000+ fruit & vegetable images**
 - Designed a **real-time prediction pipeline with shelf-life decay modeling** for dynamic freshness scoring and spoilage alerts
