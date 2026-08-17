@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Developer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Smart_India_Hackathon-2024%20%26%202025%20Finalist-00A86B?style=for-the-badge">
   <img src="https://img.shields.io/badge/CodeChef-1700%2B%20Rating-BE1E2D?style=for-the-badge&logo=codechef&logoColor=white">
-  <img src="https://img.shields.io/badge/LeetCode-520%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/LeetCode-670%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </p>
 
 ---
@@ -51,7 +51,7 @@
 - ✅ **Microsoft Certified: Azure Developer Associate**
 - 📡 **Cisco CCNA 1, 2, 3** — Certified
 - ⚔️ **CodeChef** — Div 2, rating **1700+**
-- 🧠 **LeetCode** — **520+ problems** solved
+- 🧠 **LeetCode** — **670+ problems** solved
 - 💼 Real-client delivery experience on paid freelance projects
 
 ---
@@ -77,6 +77,14 @@
   <img src="https://img.shields.io/badge/MobileNetV2-00A86B?style=for-the-badge">
   <img src="https://img.shields.io/badge/ColBERT-6f42c1?style=for-the-badge">
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge">
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 **Backend & APIs**
@@ -121,6 +129,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
 </p>
 
 [🔗 Repository](https://github.com/mr-snake-mr/Real-Time-Freshness-Indicator) · [🚀 Live Demo](https://kishore200630-freshness-indicator.hf.space/)
@@ -140,6 +149,7 @@
   <img src="https://img.shields.io/badge/FAISS-6f42c1?style=flat-square">
   <img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=flat-square">
   <img src="https://img.shields.io/badge/ColBERT-6f42c1?style=flat-square">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
 </p>
 
 [🔗 Repository](https://github.com/mr-snake-mr/scholar-rag-engine) · [🚀 Live Demo](https://snakeeee-scholar-rag-engine.hf.space/)
@@ -193,9 +203,9 @@
 
 | Platform | Handle | Stats |
 |----------|--------|-------|
-| [LeetCode](https://leetcode.com/u/naga_adarsh_s/) | `naga_adarsh_s` | 520+ problems solved |
+| [LeetCode](https://leetcode.com/u/naga_adarsh_s/) | `naga_adarsh_s` | 670+ problems solved |
 | [CodeChef](https://www.codechef.com/users/mr_snake_mr) | `mr_snake_mr` | Div 2 · Rating 1700+ |
-| Codolio | `fOaTXef` | 650+ total problems |
+| Codolio | `fOaTXef` | 750+ total problems |
 
 ---
 
