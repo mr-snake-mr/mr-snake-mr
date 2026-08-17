@@ -110,6 +110,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
 ---
@@ -170,6 +172,8 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </p>
 
+[🚀 Live Demo](https://nagssho.vercel.app/)
+
 ---
 
 ### 🎬 AI Video Processing Pipeline
@@ -186,16 +190,21 @@
 
 ---
 
-### 💰 Daily Spending Tracker
+### 📡 Telemetry — Unified Telemetry Ingestion API
 
-> Flask-based expense tracking & summarization
+> Event-ingestion backend collecting analytics from your live projects
 
-- Flask-based web application to track expenses and generate summaries
+- Unified telemetry ingestion API (v2.0) with a single `POST /log` endpoint for event ingestion
+- Aggregates events from connected projects — **URL Shortener, Freshness Indicator & RAG QA** — with per-project summaries
+- Exposes `health`, `projects`, `events` and `summary` endpoints for live monitoring
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-181717?style=flat-square">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
 </p>
+
+[🔗 Repository](https://github.com/mr-snake-mr/telemetry) · [🚀 Live Demo](https://telemetry-black.vercel.app/)
 
 ---
 
@@ -206,19 +215,6 @@
 | [LeetCode](https://leetcode.com/u/naga_adarsh_s/) | `naga_adarsh_s` | 670+ problems solved |
 | [CodeChef](https://www.codechef.com/users/mr_snake_mr) | `mr_snake_mr` | Div 2 · Rating 1700+ |
 | Codolio | `fOaTXef` | 750+ total problems |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-snake-mr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-snake-mr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-snake-mr&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
 ---
 
