@@ -224,6 +224,7 @@
   <a href="mailto:nagaadarsh354@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/naga-adarsh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/mr-snake-mr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://nag.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-nag.is--a.dev-C6F12E?style=for-the-badge&labelColor=26180D"></a>
   <a href="tel:+919003192319"><img src="https://img.shields.io/badge/Phone-%2B91%2090031%2092319-00A86B?style=for-the-badge"></a>
 </p>
 
